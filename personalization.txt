@@ -1,0 +1,62 @@
+JagTrack Module 1 - Written Reflection
+Student: Abrie
+Date: 11/19/25
+
+
+---
+
+
+CHOICE POINT #1: COLOR THEME
+Option Chosen: A
+Explanation: I chose this because the colors and changing all of it confused me. I didnt want to be more confused so i just left it as it was. Plus i like the colors it automatically has. 
+---
+
+
+NEXT QUARTER PLANNING (myclassesnextquarter.html)
+
+
+My Classes for Next Quarter:
+Period A Earth Science 8:25 AM - 9:55 AM 
+Period B Media Production Beg 10:00 AM - 11:30 AM
+Period C English/Lang Arts 10 11:35 AM - 1:45 PM
+Period D Spanish II 1:50 PM - 3:20 PM
+
+
+Explanation:
+[Write 4-6 sentences about your next quarter schedule:
+- Why did you choose these classes?
+I chose those classes because I needed some and the others i thought were fun. 
+- What are you most looking forward to learning?
+I look forward to learning more spanish
+- Which class do you think will be most challenging and why?
+I think earth science or english because i heard earth science is hard and i am not good at english 
+- If you have a free period, how do you plan to use it productively?
+ I dont have a free period 
+- How will these classes help you reach your academic or career goals?
+TO be honest i dont know. 
+
+
+Free Period Challenge (if applicable):
+[If you have a free period, did you complete the challenge to hide it on mobile? Explain how you implemented it using d-none d-sm-block]
+
+
+---
+
+
+REFLECTION
+
+
+What I Learned:
+[Write 5-8 sentences reflecting on Module 1:
+- What Bootstrap concepts made sense to you?
+To be honest i did not understand any of the coding or bootstrap. 
+- What was most challenging?
+The most challenging thing for me is understanding if i did it correctly or if i messed up 
+- How do you feel about your CSS customization?
+I just left it so i think it is fine. 
+- How will you use this site for planning next quarter? I dont know if i will use it.
+]
+
+
+Hours Spent: about an hour and a half
+```
