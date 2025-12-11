@@ -59,4 +59,48 @@ I just left it so i think it is fine.
 
 
 Hours Spent: about an hour and a half
-```
+
+
+
+EXERCISE 3: DARK/LIGHT MODE TOGGLE
+
+
+Color Scheme Design:
+[Write 5-7 sentences about your color choices:
+- What colors did you choose for light mode? Why?
+Light blue light turquoise light purple. I chose them because thye are my favorite colors and they arent any bad colors and they go together nicely. 
+- What colors did you choose for dark mode? Why? 
+Dark turquoise dark bolue dark purple. I choose this because they go together well and arent to wher eyou can read there super dark but they arnet bright to where they hurt your eyes 
+- How do your color choices reflect your personality or style?
+I dont think so. They always have been my favorite bu ti dont think they show my personality. 
+- Did you use any color theory principles (complementary, analogous, etc.)?
+No i just chose what i liked and put them together, i jsut thought how they would look together. 
+- How did you ensure good contrast for accessibility?
+Like i said again i just thought about how they would look together. 
+- What tools did you use to help choose colors?
+I used the website icolor to look up the codes for each color. 
+- Were there any colors you tried that didn't work? Why not?]
+Nope i jsut went with whta i liked. 
+Theme Preferences:
+- Which theme do you prefer personally and why? I perfer dark mode because it doesnt hurt my eys as much.
+- When do you think dark mode is most useful? When it is dark around you. 
+- Did you create any custom CSS for the toggle button?Nope i did not 
+
+
+JavaScript Understanding:
+[Write 4-5 sentences showing you understand the JavaScript code:
+- In your own words, what does the JavaScript do?
+JavaScript is a programming language that allows webpages to be interactive.
+ Depending on the specific script you’re referring to 
+
+- What is localStorage and why is it useful?
+localStorage is a built-in feature of web browsers that lets you store small amounts of data on the user’s device—not on a server.
+
+- What happens when you click the theme toggle button?
+It changes the team
+- Why does the theme preference persist when you reload the page?
+Because it saves 
+- How might you use JavaScript in future projects?]
+I probaly wont i dont reeally see mysefl using coding. 
+
+---

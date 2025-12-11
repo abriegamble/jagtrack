@@ -3,22 +3,45 @@
 
 
 :root {
-  /* Primary Brand Colors */
-  --jag-black: #000000;          /* Jefferson Academy Black */
-  --jag-gold: #D7CD89;           /* Jefferson Academy Gold */
-  --jag-accent: #b1a363;         /* Darker gold accent */
+ /* Primary Brand Colors */
+ --jag-black: #cea5fb;
+ --jag-gold: #71e2fe;
+ --jag-accent: #a9f8dd;
 
 
-  /* Text Colors */
-  --text-dark: #000000;
-  --text-light: #ffffff;
-  --text-muted: #6c757d;
+ /* Text Colors */
+ --text-dark: #9237f7;
+ --text-light: #30d5fe;
+ --text-muted: #e5fdf5;
 
 
-  /* Background Colors */
-  --background-light: #f8f7f2;   /* Light gold background */
-  --background-white: #ffffff;
-  --background-dark: #343a40;
+ /* Background Colors */
+ --background-light: #f4ebfe;
+ --background-white: #FFFFFF;
+ --background-dark: #086243;
+}
+
+
+/* ===== CSS VARIABLES FOR DARK MODE ===== */
+
+
+[data-theme="dark"] {
+ /* Primary Brand Colors */
+ --jag-black: #6108c4;
+ --jag-gold: #007c9b;
+ --jag-accent: #0c8f63;
+
+
+ /* Text Colors */
+ --text-dark: #1b0237;
+ --text-light: #a9eeff;
+ --text-muted: #5df1bf;
+
+
+ /* Background Colors */
+ --background-light: #00aad4;
+ --background-white: #50dcff;
+ --background-dark: #053c29;
 }
 
 
@@ -283,3 +306,32 @@ body {
    padding-bottom: 56.25%;
  }
 }
+
+
+#theme-toggle {
+ font-size: 1.5rem;
+ padding: 5px 10px;
+ margin-left: 10px;
+ border-radius: 50%;
+ transition: all 0.3s ease;
+}
+
+
+#theme-toggle:hover {
+ background-color: rgba(255, 255, 255, 0.1);
+ transform: scale(1.1);
+}
+#theme-toggle {
+ font-size: 1.5rem;
+ padding: 5px 10px;
+ margin-left: 10px;
+ border-radius: 50%;
+ transition: all 0.3s ease;
+}
+
+
+#theme-toggle:hover {
+ background-color: rgba(255, 255, 255, 0.1);
+ transform: scale(1.1);
+}
+
